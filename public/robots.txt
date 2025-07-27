@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://portofolio-website-theta-five.vercel.app/sitemap.xml
